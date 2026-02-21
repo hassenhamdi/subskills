@@ -1,0 +1,10 @@
+{
+  "name": "subskills",
+  "version": "1.0.0",
+  "description": "Deterministic skill-orchestration pipeline with persistent caching and context-efficient subagent coordination.",
+  "publisher": "hassenhamdi",
+  "engines": {
+    "gemini": "^1.0.0"
+  },
+  "contextFileName": "GEMINI.md"
+}

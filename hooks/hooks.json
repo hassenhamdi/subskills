@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "SessionStart",
+        "hooks": [
+          {
+            "name": "subskills-session-start",
+            "type": "command",
+            "command": "hooks/session-start.sh"
+          }
+        ]
+      }
+    ]
+  }
+}
